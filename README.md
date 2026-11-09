@@ -1,2 +1,8 @@
-# cookbook-Lev
-This is a learning repo for the Git Workshop
+# My Awesome Cookbook
+
+Here you can find:
+ - Ramen Soup
+ - Carrot cake
+
+**More to come!**
+
